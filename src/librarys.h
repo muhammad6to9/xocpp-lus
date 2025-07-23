@@ -22,6 +22,5 @@
 #include <sstream>
 #include <cstdint>
 #include <cstring>
-#include "inttostring.h"
 #endif
 //yeah nerd, i know it's spelled libraries
